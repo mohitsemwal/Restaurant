@@ -1,0 +1,17 @@
+
+@media screen and (min-width:272px) and (max-width:960px) {
+
+    
+    #mypara{
+        width: 75% !important;
+        font-size: 4vw !important;
+    }
+}
+@media screen and (max-width:375px) {
+    #hero{
+        font-size: 8vw !important;
+    }
+}
+@media screen and (max-width:476px) {
+
+}
